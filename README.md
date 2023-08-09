@@ -1,1 +1,2 @@
-# .github
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JWLMT88&show_icons=true)
